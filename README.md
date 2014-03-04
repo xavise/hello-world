@@ -1,7 +1,7 @@
-Hello-World
+hello-world
 ===========
 
-$ mkdir Hello-World
-$ cd Hello-World
+$ mkdir hello-world
+$ cd hello-world
 $ git init
 $ touch README
